@@ -7,7 +7,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 
 /**
- * 用于测试
+ * 用于测试-添加注释
  *
  * @author zhangkeke
  * @since 2017/10/18 15:31
